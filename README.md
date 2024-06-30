@@ -4,7 +4,7 @@
 TMS is a web application designed for managing tenders efficiently. It provides features for both users and administrators to handle tender creation, submission, and management.
 
 ## Table of Contents
-
+- setup
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
@@ -17,6 +17,11 @@ TMS is a web application designed for managing tenders efficiently. It provides 
 - [API Documentation](#api-documentation)
 - [Contributing](#contributing)
 - [License](#license)
+
+- ## Setup to run project  on local
+- node modules install frontend and server
+- give this command   npm run dev
+- check on localhost:5173
 
 ## Features
 
